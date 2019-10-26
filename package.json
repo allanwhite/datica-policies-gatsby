@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-gitbook-boilerplate",
+  "name": "datica-policies-gatsby",
   "private": true,
-  "description": "Documentation, built with mdx",
-  "author": "Praveen <praveen@hasura.io> (@praveenweb)",
+  "description": "HIPAA Policies Documentation, built with mdx",
+  "author": "R. A. White <allan.white@datica.com> (@allanwhite)",
   "version": "0.0.1",
   "dependencies": {
     "@babel/plugin-proposal-export-default-from": "^7.5.2",

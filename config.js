@@ -1,14 +1,14 @@
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://learn.hasura.io",
+		"siteUrl": "https://datica.com",
 		"gaTrackingId": null
 	},
 	"header": {
-		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
-		"logoLink": "https://learn.hasura.io",
-		"title": "Gatsby Gitbook Boilerplate",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"logo": "https://datica.com/public/icons/inlined/datica-logo-horiz.svg",
+		"logoLink": "/",
+		"title": "Compliance Policies",
+		"githubUrl": "https://github.com/allanwhite/datica-policies-gatsby",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
@@ -24,21 +24,22 @@ const config = {
 	},
 	"sidebar": {
 		"forcedNavOrder": [
-			"/introduction",
-    		"/codeblock"
+			"/purpose",
+			"/roles",
+			"/policies"
 		],
 		"links": [
-			{ "text": "Hasura", "link": "https://hasura.io"},
+			{ "text": "Datica Main Site", "link": "https://datica.com"},
 		],
 		"frontline": false,
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
 		"title": "Gatsby Gitbook Boilerplate | Hasura",
-		"description": "Documentation built with mdx. Powering learn.hasura.io ",
+		"description": "Documentation built with mdx.",
 		"ogImage": null,
 		"docsLocation": "https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content",
-		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
+		"favicon": "https://datica.com/public/icons/inlined/icon-datica.svg"
 	},
 };
 

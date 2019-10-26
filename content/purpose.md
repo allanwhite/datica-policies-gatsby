@@ -1,6 +1,6 @@
 ---
-title: "Datica Compliance Policies"
-metaTitle: "Policies"
+title: "Purpose and Scope"
+metaTitle: "Purpose and Scope"
 metaDescription: "The goal of this policy is to guide and direct Datica workforce members on how to defend its assets against internal, external, deliberate or accidental threats."
 ---
 

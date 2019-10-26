@@ -189,12 +189,12 @@ body {
 
 }
 
-.navBarBrand img {
-  width: 40px;
+.navBarBrand img, .navBarBrand .logo { /* likely an svg */
+  height: 3rem;
+  max-width: 8rem;
   margin-right: 16px;
   display: inline-block;
 }
-
 .navBarUL li a {
   font-family: 'Roboto';
   color: #fff !important;
