@@ -39,7 +39,8 @@ const LeftSideBarWidth = styled('div')`
   width: 298px;
 `;
 const RightSideBarWidth = styled('div')`
-  width: 224px;
+  min-width: 224px;
+  max-width: 400px;
 `;
 const Layout = ({ children, location }) => (
   <ThemeProvider location={location}>

@@ -33,7 +33,7 @@ body {
 {
   height: 30px;
   margin: 0 15px;
-  border-right: 1px solid rgba(255, 255, 255, 0.3);
+  border-right: 1px solid rgba(236, 169, 169, 0.3);
 }
 .navBarULRight {
   /* position: absolute;
@@ -61,7 +61,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-  background-color: #542683;
+  background-color: #483a61;
 }
 
 .headerWrapper {
@@ -330,7 +330,7 @@ pre {
   fill: #fff !important;
 }
 .active .collapser >svg >path {
-  fill: #663399 !important;
+  fill: #5b4274 !important;
 }
 
 .firstLevel ul .item ul .item {
@@ -398,7 +398,7 @@ pre {
   font-size: 32px;
   line-height: 1.5;
   font-weight: 500;
-  border-left: 2px solid rgb(116, 76, 188);
+  border-left: 2px solid rgb(81, 62, 117);
   padding: 0 16px;
   flex: 1;
   margin-top: 0;
